@@ -96,6 +96,16 @@
 /* fine ex.6 */
 
 
+.ex-7-img {
+    transition: 2s;
+}
+
+.ex-7-img:hover {
+    filter: grayscale();
+}
+/* fine ex.7 */
+
+
 .ex-8-img {
     transition: 2s;
 }
