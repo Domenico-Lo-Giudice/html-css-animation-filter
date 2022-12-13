@@ -162,10 +162,10 @@
 }
 
 .ex-11-icon:hover {
-    animation: spin 2s linear;
+    animation: spin2 2s linear;
 }
 
-@keyframes spin {
+@keyframes spin2 {
 
     0%  {
             transform: rotate(0deg);
